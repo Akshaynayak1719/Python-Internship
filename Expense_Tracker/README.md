@@ -6,7 +6,7 @@ Features
 - View Summaries: Get an overview of total spending, categorized spending, and daily spending summaries.
 - Delete Expense: Remove any recorded expense by its index.
 - Edit Expense: Update details of an existing expense.
-- Data Persistence: All expenses are saved in a local text file (`expenses.txt`), ensuring data is retained between sessions.
+- Data Persistence: All expenses are saved in a local text file, ensuring data is retained between sessions.
 
 
 
